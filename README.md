@@ -2,6 +2,12 @@
 
 **Detection and Analysis of Unsafe Lateral Movements Using UVH-26 Dataset**
 
+## 👋 New to Machine Learning?
+
+If you are completely new to ML and want a plain-English explanation of what this project does, start here: **[BEGINNER_GUIDE.md](./BEGINNER_GUIDE.md)**
+
+---
+
 ## 📋 Project Overview
 
 This project develops a **data-driven framework** for detecting and analyzing unsafe lateral movements in heterogeneous Indian urban traffic using trajectory data from the **UVH-26 dataset**.
